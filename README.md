@@ -16,22 +16,22 @@ The diagram represents the leaf disease detection process, starting from the inp
 ## Project Structure
 ```
 Leaf-Disease-Detection/
-├── dataset/
-│   └── sample_data/
 ├── figures/
-│   └── workflow.png
+│   └─Streamlit
+│   └─Streamlit2
+│   └─Streamlit3
 ├── models/
-│   └── trained_model.h5
+│   └── plant_disease.h5
 ├── notebooks/
-│   └── visualization.ipynb
+│   └── Model_Training.ipynb
 ├── src/
-│   ├── preprocess.py
-│   ├── model_training.py
 │   ├── main.py
+├── static/
+│   ├── images
+├── test_images/
+│   ├── #contain images for testing
 ├── README.md
 ├── requirements.txt
-├── LICENSE
-└── CONTRIBUTING.md
 ```
 
 ## Getting Started
@@ -54,18 +54,16 @@ Make sure you have the following installed:
    pip install -r requirements.txt
    ```
 
-3. Prepare the dataset:
-   - Add your dataset to the `dataset/sample_data/` folder.
 
 ### Usage
 Run the main program:
 ```bash
-python src/main.py
+streamlit run src/main.py
 ```
 
 Explore the visualizations and results in the `notebooks/` folder:
 ```bash
-jupyter notebook notebooks/visualization.ipynb
+jupyter notebook notebooks/Model_Training.ipynb
 ```
 
 ## Requirements
