@@ -1,5 +1,3 @@
-# Leaf-Disease-Detection
-A project for detecting leaf diseases using deep learning techniques. It includes workflows for feature extraction, a database for training and testing, and a user interface to analyze disease types from input images.
 # Leaf Disease Detection
 
 A comprehensive deep learning-based project designed to detect and classify diseases in leaves using advanced image processing and neural network models. This repository contains the source code, datasets, and workflow documentation required for leaf disease detection.
@@ -88,11 +86,6 @@ The project outputs include:
 - Preprocessed leaf images.
 - Metrics such as accuracy, precision, and recall.
 
-## Contributing
-We welcome contributions! Please see the `CONTRIBUTING.md` file for guidelines on how to contribute to this project.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 - Special thanks to open-source libraries and contributors.
