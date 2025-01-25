@@ -1,0 +1,25 @@
+# Python Version
+python>=3.9
+
+# Machine Learning Framework
+tensorflow>=2.10.0
+
+# Data Manipulation
+pandas
+numpy
+
+# Image Processing
+opencv-python
+
+# Visualization
+matplotlib
+seaborn
+
+# Web Application
+streamlit
+
+# Model Evaluation and Metrics
+scikit-learn
+
+# Image Handling
+Pillow
