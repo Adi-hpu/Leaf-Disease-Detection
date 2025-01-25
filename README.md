@@ -9,7 +9,7 @@ A comprehensive deep learning-based project designed to detect and classify dise
 - **Interactive Workflow**: Clear visual diagrams and user-friendly interfaces.
 
 ## Workflow Diagram
-![Workflow](figures/Workflow.png)
+![Workflow](figures/Workflow.jpg)
 
 The diagram represents the leaf disease detection process, starting from the input image, feature extraction, and database integration to classification using deep learning models.
 
